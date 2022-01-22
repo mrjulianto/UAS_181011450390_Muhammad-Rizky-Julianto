@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:uas_181011450390/data_service.dart';
 import 'package:uas_181011450390/weather_model.dart';
 
-//Zulfikar Alwi
-//181011450389
-
 void main() {
   runApp(const MyApp());
 }
